@@ -1,2 +1,2 @@
 # Jupyter-Notebooks
- Side Projects for MIT Professional 
+Projects for MIT Professional 
